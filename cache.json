@@ -1,0 +1,58 @@
+{
+  "Loreen - Tattoo.mp3": {
+    "id": "Loreen - Tattoo.mp3",
+    "mtime": 1790767614158.5425,
+    "v": 2,
+    "hasAlbumTag": false,
+    "title": "Tattoo",
+    "artist": "Loreen",
+    "album": "Singles",
+    "albumArtist": "Loreen",
+    "no": 0,
+    "dur": 183.432,
+    "year": null,
+    "tagCover": false
+  },
+  "Tom Odell - Another Love.mp3": {
+    "id": "Tom Odell - Another Love.mp3",
+    "mtime": 1790776004058.3892,
+    "v": 2,
+    "hasAlbumTag": true,
+    "title": "Another Love",
+    "artist": "Tom Odell - Topic",
+    "album": "Another Love",
+    "albumArtist": "Tom Odell - Topic",
+    "no": 0,
+    "dur": 251.06285714285715,
+    "year": 2021,
+    "tagCover": true
+  },
+  "Cranberries - Zombie.mp3": {
+    "id": "Cranberries - Zombie.mp3",
+    "mtime": 1790776737207.4497,
+    "v": 2,
+    "hasAlbumTag": false,
+    "title": "Zombie",
+    "artist": "Cranberries",
+    "album": "Singles",
+    "albumArtist": "Cranberries",
+    "no": 0,
+    "dur": 307.4089795918367,
+    "year": null,
+    "tagCover": false
+  },
+  "Duncan Laurence, FLETCHER - Arcade.mp3": {
+    "id": "Duncan Laurence, FLETCHER - Arcade.mp3",
+    "mtime": 1790779498578.4395,
+    "v": 2,
+    "hasAlbumTag": true,
+    "title": "Arcade",
+    "artist": "Duncan Laurence, FLETCHER",
+    "album": "Small Town Boy",
+    "albumArtist": "Duncan Laurence, FLETCHER",
+    "no": 0,
+    "dur": 187.488,
+    "year": 2020,
+    "tagCover": true
+  }
+}
