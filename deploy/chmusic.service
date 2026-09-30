@@ -1,0 +1,15 @@
+[Unit]
+Description=CHmusic
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=chmusic
+WorkingDirectory=/opt/chmusic
+EnvironmentFile=/etc/chmusic.env
+ExecStart=/usr/bin/node server.js
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
